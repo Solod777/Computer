@@ -21,7 +21,7 @@ public class Starter {
 
 		String result = macBook.PasswordCheck();
 
-		System.out.println(result); // НЕ ПРИДУМАЛ, КАК ВЫВЕСТИ МИГАЮЩИЕ ТОЧКИ ПОСЛЕ Loading... + ЦВЕТОМ!!!
+	//	System.out.println(result); // НЕ ПРИДУМАЛ, КАК ВЫВЕСТИ МИГАЮЩИЕ ТОЧКИ ПОСЛЕ Loading... + ЦВЕТОМ!!!
 
 	}
 
